@@ -121,7 +121,7 @@ blocks:
   id: variable
   parameters:
     comment: Cambie esta tabla para OOK ASK BPSK QPSK 8PSK o 16QAM
-    value: (0+0j, 1+0j)
+    value: (1+0j, 0.707+0.707j, 0+1j, -0.707+0.707j, -1+0j, -0.707-0.707j, 0-1j, 0.707-0.707j)
   states:
     bus_sink: false
     bus_source: false
@@ -201,7 +201,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [464, 264.0]
+    coordinate: [456, 264.0]
     rotation: 0
     state: true
 - name: import_0
@@ -233,7 +233,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [560, 144.0]
+    coordinate: [568, 128.0]
     rotation: 0
     state: true
 - name: qtgui_const_sink_x_0
