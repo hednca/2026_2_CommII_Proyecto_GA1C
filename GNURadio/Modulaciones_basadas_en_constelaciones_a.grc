@@ -201,7 +201,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [464, 264.0]
+    coordinate: [456, 264.0]
     rotation: 0
     state: true
 - name: import_0
@@ -233,7 +233,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [560, 144.0]
+    coordinate: [568, 128.0]
     rotation: 0
     state: true
 - name: qtgui_const_sink_x_0
